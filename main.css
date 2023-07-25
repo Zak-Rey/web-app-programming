@@ -35,7 +35,10 @@
 }
 
 .logo{
-    width: 120px;
+    cursor: pointer;
+    height: 33px;
+    width: auto; 
+    margin-top: 3px; 
     cursor: pointer;
 }
 
